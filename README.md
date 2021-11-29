@@ -2,9 +2,9 @@
 a small tool witch can let the FateSeekerII becomes ACT mode
 
 ## useage
-1.Download the release file and decompress it to anywhere
-2.Open the FateSeekerII.exe
-3.Open the FateSeekerIIActMod.exe with Administor Mode
+1.Download the release file and decompress it to anywhere\n
+2.Open the FateSeekerII.exe\n
+3.Open the FateSeekerIIActMod.exe with Administor Mode\n
 4.Enjoy it
 
 ## HotKeys
